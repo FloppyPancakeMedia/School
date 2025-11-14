@@ -1,0 +1,185 @@
+/* Andrea Hirons's CS195 starting CSS for The Puppy Palace - Lab 6 */
+/* Obnoxious Lime Green for testing -- border: 1px solid #0f0; */
+
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=M+PLUS+Rounded+1c&family=Tiny5&display=swap');
+
+body {
+	background-color: rgb(187, 96, 96);
+	font-family: "M Plus Rounded 1c", "calibri", serif;
+}
+
+header {
+
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Agdasima", sans-serif;
+}
+
+nav {}
+
+img {}
+
+main {
+	background-color: rgb(206, 170, 153);
+	padding: 5px;
+	margin: auto;
+}
+
+article {}
+
+aside {
+	background-color: #fcf;
+}
+
+aside img {
+	/* same code as img-left class, really should do one or the other */
+}
+
+footer {
+	background-color: rgb(107, 112, 165);
+	clear: both;
+	border-top: 2px solid #f9f;
+	margin: auto;
+	padding: 5px;
+	/* #909 med purple #303 dark purple */
+}
+
+address {}
+
+/* Table Styles */
+table {
+
+}
+
+td {
+	font-size: 11px;
+	padding: 5px;
+}
+
+th {
+	font-size: 13px;
+}
+
+/* Links in rest of page */
+/* 
+a:link {color: blue;}
+a:visited {color: pink;}
+a:hover  {color: red;}
+a:active, a:focus {color: yellow;}  */
+
+#logo {
+	display: flex;
+	font-size: 24px;
+	text-align: center;
+	align-items: center;
+	background-color: rgb(180, 28, 28);
+	/* justify-content: center; */
+}
+
+#logo-text{
+
+}
+#logo-photo {
+	/* display: flex row; */
+	justify-content: left;
+	padding: 10px;
+	/* margin: auto; */
+	width: 150px;
+}
+
+#topNav {
+	background-color: rgb(245, 118, 87);
+	border-top: 2px solid #f9f;
+	border-bottom: 2px solid #f9f;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	/* #909 med purple #303 dark purple */
+	text-align: center;
+	line-height: 1.8em;
+}
+
+#topNav a:link {
+	color: rgba(51, 0, 51, .7);
+	border: 1px solid rgba(51, 0, 51, .7);
+	background-color: rgba(51, 0, 51, .3);
+	border-radius: 5px;
+	padding: 2px;
+	text-decoration: none;
+	transition: all 0.3s ease-in-out;
+}
+
+#topNav a:visited{}
+
+#topNav a:hover {
+	background-color: rgba(20, 0, 20, .1);
+}
+
+#topNav a:active,
+#topNav a:focus {
+	background-color: rgba(20, 0, 20, 0.1);
+	color: rgba(100, 0, 100, 0.8);
+}
+
+#sideNav {
+	display: none;
+	
+}
+
+/* Left Column */
+
+#sideNav ul {
+
+}
+
+#sideNav li {
+
+}
+
+#sideNav li:hover {
+
+}
+
+#sideNav a {
+
+}
+
+#wrapper {
+
+}
+
+#image-bottom{
+	display: flex;
+	flex-direction: column;
+}
+
+#skellies{
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+#undead{
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+.washout {
+	background-color: rgba(255, 255, 255, .5);
+}
+
+.rowHeader .img-left {
+	float: left;
+	margin-right: 5px;
+}
+
+.img-right {
+	float: right;
+}
+
+h4.listHeader {}

@@ -1,0 +1,385 @@
+/* Andrea Hirons's CS195 starting CSS for The Puppy Palace - Lab 6 */
+/* Obnoxious Lime Green for testing -- border: 1px solid #0f0; */
+
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=M+PLUS+Rounded+1c&family=Tiny5&display=swap');
+
+
+body{
+	background-color: black;
+	font-family: "M Plus Rounded 1c", "calibri", serif;
+	background-image: url(images/angels.jpg);
+	background-size: 75%;
+  	background-position: center;
+  	background-repeat: repeat;
+	margin: 0px;
+}
+
+header{
+	background-color: rgb(218, 199, 158);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Agdasima", sans-serif;
+}
+
+nav {}
+
+img {}
+
+fieldset{
+	display: inline-block;
+}
+
+legend{
+	
+}
+
+main {
+	background-color: rgba(155, 95, 167, 0.973);
+	padding: 5px;
+	min-height: 60vh;
+}
+
+article {}
+
+aside {
+	width: 250px;
+	float: right;
+	background-color: #fcf;
+	border-left: 2px solid #f9f;
+	padding: 5px;
+	margin: 5px;
+}
+
+footer {
+	background-color: rgb(107, 112, 165);
+	clear: both;
+	border-top: 2px solid #f9f;
+	padding: 10px;
+	/* #909 med purple #303 dark purple */
+}
+
+address {}
+
+/*************** Table Styles ********************/
+table{
+	width: 90%;
+	position: relative;
+	left: 2%;
+	border: inset;
+	border-color:rgb(117, 37, 0);
+	padding: 2px;
+	margin: 10px;
+	border: 1px inset;
+}
+
+td{
+	background-color: rgb(252, 121, 121);
+	padding: 2px;
+	border: 1px inset;
+	width: 1vw;
+	font-size: 2vw;
+}
+
+th{
+	background-color: rgb(99, 0, 0);
+	color: rgb(156, 156, 156);
+	padding: 2px;
+	border: 1px outset;
+	width: 1vw;
+	font-size: 2vw;
+}
+
+/*************** End Table Styles *******************/
+
+/* Links in rest of page */
+/* 
+a:link {color: blue;}
+a:visited {color: pink;}
+a:hover  {color: red;}
+a:active, a:focus {color: yellow;}  */
+
+/**************** Logo ******************************/
+#logo{
+	display: flex;
+	flex-direction: row;
+	font-size: 48px;
+	align-items: center;
+	margin: auto;
+	background-color: rgb(255, 39, 39);
+}
+
+#logo-text{
+	position: relative;
+	right: 15%;
+	margin: auto;
+	color: rgb(0, 255, 34);
+	text-shadow: 2px 5px 5px black;
+}
+
+#logo-photo{
+	padding: 5px;
+	margin: 5px;
+	width: 50%;
+}
+/****************** End Logo ****************************/
+
+
+/***************** Top Nav ***************/
+
+#topNav {
+	background-color: rgb(173, 110, 110);
+	border-top: 2px solid #f9f;
+	border-bottom: 2px solid #f9f;
+	/* #909 med purple #303 dark purple */
+	padding: 5px;
+	text-align: center;
+	line-height: 1.8em;
+}
+
+#topNav a:link {
+	color: rgba(51, 0, 51, .7);
+	border: 1px solid rgba(51, 0, 51, .7);
+	background-color: rgba(251, 255, 2, 0.596);
+	border-radius: 5px;
+	padding: 2px;
+	text-decoration: none;
+	transition: all 0.3s ease-in-out;
+}
+
+#topNav a:hover {
+	background-color: rgba(20, 0, 20, .1);
+}
+
+#topNav a:active,
+#topNav a:focus {
+	background-color: rgba(20, 0, 20, 0.1);
+	color: rgba(100, 0, 100, 0.8);
+}
+
+/************* End Top Nav ********************/
+
+
+/*************** FAQ Stuff **********************/
+
+details{
+	margin-top: 2vh;
+	padding: 1vw;
+	background-color: orange;
+	transition: background-color 0.3s ease-in-out;
+	cursor: pointer;
+}
+
+details:hover{
+	background-color: orangered;
+}
+
+summary{
+	padding: 5px;
+	font-weight: bold;
+	font-family: "Josephin Sans";
+}
+
+/*************** End FAQ Stuff *********************/
+
+
+/**************** Order Form ***********************/
+input{
+	
+}
+
+input:focus{
+	background-color: rgb(164, 255, 146);
+}
+
+input::selection{
+	background-color: lightgreen;
+}
+
+label{
+	justify-self: left;
+	width: 20%;	
+	font-size: 1.6vw;
+}
+
+#buyer-info{
+	display: flex;
+	flex-direction: column;
+	width: 90%;
+}
+
+.input-field{
+	display: flex;
+	flex-direction: row;
+	margin: 5px;
+	margin-top: 10px;
+}
+
+.form-buttons{
+	margin: 5px;
+	width: 30%;
+	height: 25px;
+	background-color:rgb(59, 59, 59);
+	color: rgb(255, 192, 192);
+}
+
+.check-field{
+	
+	width: 90%;
+}
+
+#first-name{
+	width: 30%;
+}
+
+#last-name{
+	width: 30%;
+}
+
+#level{
+	width: 10%;
+}
+
+#evil{
+	position: relative;
+	left: 30%;
+}
+
+.radio{
+	display: flex;
+	flex-direction: row;
+	width: 40%;
+	justify-content: space-between;
+}
+
+#name{
+	width: 50%;
+}
+
+#minion-info{
+	width: 90%;
+}
+
+#alignment-evil{
+	background-color: blue;
+}
+
+#instructions{
+	width: 90%;
+}
+
+#instructions-textarea{
+	width: 99%;
+}
+
+#age-verify{
+	font-weight: bold;
+	margin: 15px;
+}
+
+#aRange{
+	width: 50%;
+}
+
+/************* End Order Form ******************/
+
+
+/**************** Side Nav **********************/
+
+#sideNav {
+	background-color: purple;
+	color: white;
+	float: left;
+	position: sticky;
+	right: 0px;
+	top: 33%;
+	max-width: 13%;
+	margin: 1%;
+	transition: padding 0.3s ease-in-out;
+}
+
+#sideNav ul{
+	background-color: black;
+	list-style: none;
+	padding: 5px;
+	margin: 1vw;
+	text-align: left;
+}
+
+#sideNav li {
+	margin-bottom: 5px;
+	background-color: rgb(49, 49, 117);
+	border-radius: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	transition: padding 0.3s ease-in-out, background-color 0.3s ease-in-out;
+	margin-top: 10px;
+	font-size: 1.5vw;
+}
+
+#sideNav li:hover {
+	background-color: black;
+	padding-left: 15px;
+}
+
+#sideNav a {
+	color: white;
+	text-decoration: none;
+}
+
+/*************** End Side Nav *************/
+
+
+#wrapper {
+	/* container: flex; */
+	min-width: 200px;
+	max-width: 2000px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	border: 2px solid rgb(148, 53, 53);
+	box-shadow: 0px 0px 10px rgb(255, 57, 7);
+}
+
+
+/************** Misc ************************/
+
+#image-bottom{
+	/* display: flex; */
+	display: inline-block;
+}
+
+#skellies{
+	width: 40%;
+	float: left;
+}
+
+#undead{
+	width: 40%;
+	position: relative;
+	/* left: 20%; */
+	float: right;
+}
+
+.washout {
+	background-color: rgba(255, 255, 255, .5);
+}
+
+.rowHeader .img-left {
+	float: left;
+	margin-right: 5px;
+}
+
+.img-right {
+	float: right;
+}
+
+
+h4.listHeader {}
+
+/******************* End Misc ************************/

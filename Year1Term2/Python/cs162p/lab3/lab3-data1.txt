@@ -1,0 +1,13 @@
+#SRCNAME|DSTNAME|METRIC=VALUE,METRIC=VALUE,...
+node1|node2|cost=10,delay=10
+node1|node3|cost=10,delay=30
+node1|node4|cost=10,delay=20
+node2|node1|cost=10,delay=10
+node2|node3|cost=10,delay=20
+node2|node4|cost=10,delay=20
+node3|node1|cost=10,delay=30
+node3|node2|cost=10,delay=20
+node3|node4|cost=10,delay=20
+node4|node1|cost=10,delay=20
+node4|node2|cost=10,delay=20
+node4|node3|cost=10,delay=20

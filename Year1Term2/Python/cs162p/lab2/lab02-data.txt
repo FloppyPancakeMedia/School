@@ -1,0 +1,27 @@
+# Person ID | Name | Age | Profession | Rate
+1|Alice Aquamarine|56|Cook|17.50
+2|Bob Boracite|34|Baker|16.50
+3|Charles Carnelian|37|Cook|18.00
+4|David Diamond|21|Cashier|16.50
+5|Eve Emerald|23|Manager|20.50
+6|Fred Feldspar|31|Custodian|16.50
+7|Greg Gypsum|20|Cashier|15.50
+8|Harriet Hematite|19|Cook|15.00
+9|Issabelle Iolite|32|Sales|19.50
+10|Jessica Jasper|41|Manager|21.50
+11|Kimberly Kyanite|25|Electrician|25.00
+12|Lars Lapis|43|Cashier|16.50
+13|Michael Moonstone|44|Cook|16.00
+14|Naomi Nambulite|20|Custodian|17.50
+15|Olivia Onyx|42|Cashier|15.50
+16|Paul Pearl|33|Sales|18.50
+17|Quincy Quartz|52|Cook|19.00
+18|Rachel Ruby|39|Baker|15.50
+19|Sarah Sunstone|28|Sales|16.00
+20|Thad Topaz|78|Cashier|18.00
+21|Ulysses Ulexite|37|Cook|16.50
+22|Vivian Vanadinite|23|Sales|17.00
+23|Walter Wulfenite|43|Cashier|15.00
+24|Xavier Xonotlite|25|Baker|16.50
+25|Yolanda Yugawaralite|25|Cook|17.00
+26|Zeke Zircon|31|Cook|15.00

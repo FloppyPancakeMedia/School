@@ -1,0 +1,139 @@
+/* Andrea Hirons's CS195 starting CSS for The Puppy Palace - Lab 6 */
+/* Obnoxious Lime Green for testing -- border: 1px solid #0f0; */
+
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=M+PLUS+Rounded+1c&family=Tiny5&display=swap');
+
+body {
+	font-family: "M Plus Rounded 1c", "calibri", serif;
+}
+
+header {
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Agdasima", sans-serif;
+}
+
+nav {}
+
+dt {}
+
+img {}
+
+main {
+	padding: 5px;
+}
+
+acticle {}
+
+aside {
+	width: 250px;
+	float: right;
+	border-left: 2px solid rgb(0, 0, 0);
+	border-bottom: 2px solid rgb(0,0,0);
+	padding: 5px;
+	margin: 5px;
+}
+
+aside img {
+	/* same code as img-left class, really should do one or the other */
+}
+
+footer {
+
+	clear: both;
+	border-top: 2px solid rgb(0, 0, 0);
+	/* #909 med purple #303 dark purple */
+}
+
+address {}
+
+/* Table Styles */
+table,
+td,
+th {}
+
+td {}
+
+th {}
+
+/* Links in rest of page */
+/* 
+a:link {color: blue;}
+a:visited {color: pink;}
+a:hover  {color: red;}
+a:active, a:focus {color: yellow;}  */
+
+#logo {
+	display: flex;
+	font-size: 48px;
+	text-align: center;
+	align-items: center;
+	margin: auto;
+	/* justify-content: center; */
+}
+
+#logo-text{
+	display: flex;
+	margin: auto;
+}
+#logo-photo {
+	/* display: flex row; */
+	/* justify-content: left;
+	padding: 10px;
+	margin: auto;
+	width: 150px; */
+	display: none;
+}
+
+#topNav {
+	border-top: 2px solid rgb(0, 0, 0);
+	border-bottom: 2px solid rgb(0, 0, 0);
+	/* #909 med purple #303 dark purple */
+	padding: 5px;
+	text-align: center;
+	line-height: 1.8em;
+}
+
+#topNav a:link {
+	border: 2px solid rgba(0, 0, 0, 0.7);
+	color: black;
+	border-radius: 5px;
+	padding: 2px;
+	text-decoration: none;
+}
+
+
+#sideNav {
+	display: none;
+	
+}
+#wrapper {
+	min-width: 200px;
+	max-width: 2000px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+.washout {
+}
+
+.rowHeader .img-left {
+	float: left;
+	margin-right: 5px;
+	page-break-after: avoid;
+}
+
+.img-right {
+	float: right;
+	page-break-after: avoid;
+}
+
+h4.listHeader {}
