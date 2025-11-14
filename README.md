@@ -5,7 +5,7 @@
 # Classes Taken:
 
 ### 1. Fall 2024:
-- Web Authoring 1
+- Web Authoring 1 (CS 195)
 - Math Literacy (Math 95)
 - Computing Careers Exploration (CS 100)
 - Intro to Computer Networks (CS 179)
