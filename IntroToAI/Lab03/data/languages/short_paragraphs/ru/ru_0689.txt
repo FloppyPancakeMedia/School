@@ -1,0 +1,1 @@
+and (hover:hover){.mw-parser-output .ts-fix-comment,.mw-parser-output .ts-fix-commented>a:not(:hover){border-bottom:1px dotted;text-decoration:none}}[когда?]

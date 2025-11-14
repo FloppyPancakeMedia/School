@@ -1,0 +1,14 @@
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/net8.0/IntegerArrayLab.GeneratedMSBuildEditorConfig.editorconfig
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/net8.0/IntegerArrayLab.AssemblyInfoInputs.cache
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/net8.0/IntegerArrayLab.AssemblyInfo.cs
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/net8.0/IntegerArrayLab.csproj.CoreCompileInputs.cache
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/bin/Debug/net8.0/IntegerArrayLab
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/bin/Debug/net8.0/IntegerArrayLab.deps.json
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/bin/Debug/net8.0/IntegerArrayLab.runtimeconfig.json
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/bin/Debug/net8.0/IntegerArrayLab.dll
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/bin/Debug/net8.0/IntegerArrayLab.pdb
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/net8.0/IntegerArrayLab.dll
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/net8.0/refint/IntegerArrayLab.dll
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/net8.0/IntegerArrayLab.pdb
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/net8.0/IntegerArrayLab.genruntimeconfig.cache
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/net8.0/ref/IntegerArrayLab.dll

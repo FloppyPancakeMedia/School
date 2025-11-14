@@ -1,0 +1,1 @@
+A Wikipédia atualmente roda em clusters de servidores dedicados Linux (principalmente Ubuntu),[152][153] com algumas máquinas OpenSolaris com sistemas de arquivos ZFS. Em dezembro de 2009, havia 300 na Flórida, Estados Unidos, e 44 em Amsterdã, nos Países Baixos.[154]

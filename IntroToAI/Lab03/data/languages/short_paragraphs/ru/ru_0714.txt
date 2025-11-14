@@ -1,0 +1,1 @@
+.ts-oq .ts-oq-content{padding:8px 32px}.mw-parser-output .reference-text .ts-Начало_цитаты-quote{margin:0}

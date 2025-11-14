@@ -1,0 +1,1 @@
+screen{.mw-parser-output .ts-fix-text{border:1px solid var(--border-color-base,#a2a9b1);box-decoration-break:clone;margin:0 -0.1em;padding:0 0.1em;transition:background

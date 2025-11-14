@@ -1,0 +1,14 @@
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/obj/Debug/net8.0/Deque_Lab.GeneratedMSBuildEditorConfig.editorconfig
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/obj/Debug/net8.0/Deque_Lab.AssemblyInfoInputs.cache
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/obj/Debug/net8.0/Deque_Lab.AssemblyInfo.cs
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/obj/Debug/net8.0/Deque_Lab.csproj.CoreCompileInputs.cache
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/bin/Debug/net8.0/Deque_Lab
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/bin/Debug/net8.0/Deque_Lab.deps.json
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/bin/Debug/net8.0/Deque_Lab.runtimeconfig.json
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/bin/Debug/net8.0/Deque_Lab.dll
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/bin/Debug/net8.0/Deque_Lab.pdb
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/obj/Debug/net8.0/Deque_Lab.dll
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/obj/Debug/net8.0/refint/Deque_Lab.dll
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/obj/Debug/net8.0/Deque_Lab.pdb
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/obj/Debug/net8.0/Deque_Lab.genruntimeconfig.cache
+/home/cmclain/Documents/School/DataStructures/Deque_Lab/Deque_Lab/obj/Debug/net8.0/ref/Deque_Lab.dll

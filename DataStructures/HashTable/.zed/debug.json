@@ -1,0 +1,11 @@
+[
+  {
+    "label": "First configuration",
+    "adapter": "CodeLLDB",
+    "request": "launch",
+    "command": "g++ $ZED_DIRNAME/*.cpp -o main && ./main",
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "program": "$ZED_WORKTREE_ROOT/main"
+    // ...
+  }
+]

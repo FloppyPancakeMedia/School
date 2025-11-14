@@ -1,0 +1,1 @@
+A 2017 MIT study suggests that words used in Wikipedia articles end up in scientific publications.[348] Studies related to Wikipedia have been using machine learning and artificial intelligence[311] to support various operations. One of the most important areas is the automatic detection of vandalism[349][350] and data quality assessment in Wikipedia.[351][352]

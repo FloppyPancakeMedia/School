@@ -1,0 +1,1 @@
+jest dozwolone, lecz nie jest

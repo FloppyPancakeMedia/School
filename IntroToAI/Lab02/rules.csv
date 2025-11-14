@@ -1,0 +1,10 @@
+if,and,then,result_type
+critical,>0,high,PRIORITY
+warning,>4,high,PRIORITY
+warning,<=4,medium,PRIORITY
+optimal,>10,low,PRIORITY
+optimal,<=10,clear,PRIORITY
+high,,Initiate self-destruct sequence,RECOMMENDATION
+medium,,Check server immediately,RECOMMENDATION
+low,,Schedule a cleaning,RECOMMENDATION
+clear,,Live on; don't worry,RECOMMENDATION

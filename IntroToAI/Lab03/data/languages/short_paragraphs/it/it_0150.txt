@@ -1,0 +1,1 @@
+.mw-parser-output .itwiki-template-citazione{margin-bottom:.5em;font-size:95%;padding-left:2.4em;padding-right:1.2em}.mw-parser-output .itwiki-template-citazione-doppia{display:flex;gap:1.2em}.mw-parser-output .itwiki-template-citazione-doppia>div{width:0;flex:1 1

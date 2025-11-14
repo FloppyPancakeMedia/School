@@ -1,0 +1,1 @@
+.chiarimento{background:#ffeaea;color:#444444}.mw-parser-output .chiarimento-apice{color:#EE0700}@media screen{html.skin-theme-clientpref-night .mw-parser-output .chiarimento{background:rgba(179,36,36,0.21);color:inherit}html.skin-theme-clientpref-night

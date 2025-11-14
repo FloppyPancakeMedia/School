@@ -1,0 +1,1 @@
+Open-Source-Wiki-Software-Plattform, die in PHP geschrieben ist

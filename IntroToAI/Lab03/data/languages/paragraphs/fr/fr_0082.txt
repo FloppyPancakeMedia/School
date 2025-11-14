@@ -1,0 +1,1 @@
+L'architecture des serveurs change très fréquemment en raison des améliorations régulièrement apportées pour répondre au très fort trafic engendré par la consultation de Wikipédia. Cet aspect de Wikipédia est géré par le personnel technique de la Fondation Wikimédia[Note 33].

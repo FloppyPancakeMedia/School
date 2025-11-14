@@ -1,0 +1,14 @@
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/bin/Debug/netcoreapp6.0/main
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/bin/Debug/netcoreapp6.0/main.deps.json
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/bin/Debug/netcoreapp6.0/main.dll
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/bin/Debug/netcoreapp6.0/main.pdb
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/netcoreapp6.0/main.dll
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/netcoreapp6.0/refint/main.dll
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/netcoreapp6.0/main.pdb
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
+/home/cmclain/Documents/School/DataStructures/IntegerArrayLab/IntegerArrayLab/obj/Debug/netcoreapp6.0/ref/main.dll

@@ -1,0 +1,1 @@
+Wikipedia nutzte bis 2004 einen einzelnen Server, bevor das Server-Setup zu einer verteilten mehrschichtigen Architektur erweitert wurde. Ein Serverausfall im Jahr 2003 führte zur ersten Spendenaktion.
