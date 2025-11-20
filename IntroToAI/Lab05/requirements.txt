@@ -1,0 +1,4 @@
+requests
+python-dotenv
+
+# curses is built-in on Unix (Linux)
